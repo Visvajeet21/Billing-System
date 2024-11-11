@@ -1,4 +1,4 @@
-# Billing-System
+# Shop-Billling-Management-System
 
 # Project Description
 The Billing System is a C++ console application designed to handle basic billing operations for a retail store. It allows users to add products, manage inventory, generate bills for customers, and calculate the total cost, including applicable taxes. This project demonstrates C++ skills, focusing on object-oriented programming concepts, file handling, and basic data structures.
